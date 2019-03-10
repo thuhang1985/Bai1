@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 #include <stdio.h>
 int main(){
 return 0;
 }
+=======
+>>>>>>> parent of 6bcbd12... file 1 them khai bao thu vien
