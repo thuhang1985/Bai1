@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 #include <stdio.h>
+<<<<<<< HEAD
 int main(){
 return 0;
 }
@@ -11,3 +12,5 @@ return 0;
 >>>>>>> parent of 6bcbd12... file 1 them khai bao thu vien
 =======
 >>>>>>> parent of 6bcbd12... file 1 them khai bao thu vien
+=======
+>>>>>>> parent of 5887464... da co ham main()
